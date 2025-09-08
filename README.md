@@ -1,4 +1,4 @@
-# ACFIM0015_2113484
+# Predictive GRU Trading Strategy for a Proprietary Trader
 ACFIM0015 Algorithmic Trading Coursework
 
 The GRU works by running the individual code cells in GRU.ipynb. It uses the 'tape_saved.csv' file, and tests on the 'test_tape.csv' file.
